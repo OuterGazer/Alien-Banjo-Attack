@@ -15,5 +15,5 @@ The game features all extra-credit implementations:
 
 I implemented the following as extra from the original assignment:
 - Pressing P pauses and unpauses the game.
-- Backgound music.
+- Background music.
 - A limitation to the player shooting. Now the player shoots every fraction of time instead of 1 missile per frame. Enemy spawning has been adjusted accordingly not to overwhelm the player.
