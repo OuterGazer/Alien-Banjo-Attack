@@ -13,7 +13,7 @@ The game features all extra-credit implementations:
 - Sound effects
 - "Strum fire": the Deadly Strummer (green banjo) shoots musical notes aimed at the player's current position at the moment of shooting.
 
-I implemented the following as extra from the original assignament:
+I implemented the following as extra from the original assignment:
 - Pressing P pauses and unpauses the game.
 - Backgound music.
 - A limitation to the player shooting. Now the player shoots every fraction of time instead of 1 missile per frame. Enemy spawning has been adjusted accordingly not to overwhelm the player.
