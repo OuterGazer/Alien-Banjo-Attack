@@ -1,6 +1,11 @@
 # Alien-Banjo-Attack
 A Space-Invaders-like clone created with the XNA Framework as part of Rob Mile's "The Yellow Book" second semester coursework.
 
+Gameplay preview
+
+![Alien Banjo Attack](https://user-images.githubusercontent.com/71871620/131250553-98de310f-d209-4795-8489-ac6c25311606.gif)
+
+
 The players commands an accordeon able to shoot musical notes in order to fence off the evil banjo attackers spawning on screen.
 Player moves the accordion with the arrow keys and shoots with spacebar.
 Additional controls are P to pause/unpause and G to save and quit the game (when starting again it will automatically load the saved state).
